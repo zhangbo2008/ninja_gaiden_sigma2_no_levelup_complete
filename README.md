@@ -1,0 +1,2 @@
+# ninja_gaiden_sigma2_no_levelup_complete
+忍龙sigma2不升级武器不升级血条通关.
